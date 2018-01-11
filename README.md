@@ -1,4 +1,6 @@
 # sn-query
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/SenseNet/sn-query.svg)](https://greenkeeper.io/)
 Client side content query builder package for sensenet ECM
 
 [![Gitter chat](https://img.shields.io/gitter/room/SenseNet/SN7ClientAPI.svg?style=flat)](https://gitter.im/SenseNet/SN7ClientAPI)
