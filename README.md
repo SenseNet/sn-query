@@ -11,6 +11,14 @@ Client side content query builder package for sensenet ECM
 [![License](https://img.shields.io/github/license/SenseNet/sn-query.svg?style=flat)](https://github.com/sn-query/LICENSE.txt)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat)](http://commitizen.github.io/cz-cli/)
 
+## Installation
+
+```shell
+npm install @sensenet/query
+```
+
+## Usage
+
 The package allows you to create strongly typed content queries that will be evaluated into sensenet ECM queries
 Usage example:
 
