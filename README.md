@@ -1,6 +1,10 @@
 # sn-query
 Client side content query builder package for sensenet
 
+------
+### This package is not under active development. You can find our latest packages in the [sensenset/sn-client](https://github.com/sensenet/sn-client) monorepo.
+------
+
 [![Gitter chat](https://img.shields.io/gitter/room/SenseNet/SN7ClientAPI.svg?style=flat)](https://gitter.im/SenseNet/SN7ClientAPI)
 [![Build Status](https://travis-ci.org/SenseNet/sn-query.svg?branch=master)](https://travis-ci.org/SenseNet/sn-query)
 [![codecov](https://codecov.io/gh/SenseNet/sn-query/branch/master/graph/badge.svg)](https://codecov.io/gh/SenseNet/sn-query)
